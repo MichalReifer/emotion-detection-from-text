@@ -3,8 +3,8 @@
 The goal of this project is to create an algorithm that could classify the right emotion from text.
 
 In this project I examined a few architectures of neural networks in two different approaches.
-One approach is called “Bag of Words” and uses an MLP model.
-The second approach is called “Sequence of Words” and uses a CNN model.
+One approach is called “Bag of Words” and uses an **MLP model**.
+The second approach is called “Sequence of Words” and uses a **CNN model**.
 
 I used four different datasets to train the models, to compare the influence of each dataset on the results.
 By using the “We Feel Fine Project” dataset, the model achieved high accuracy, in both MLP and CNN models, 
